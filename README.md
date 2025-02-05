@@ -1,0 +1,1 @@
+# Siber-G-venlik-Temel_Notlar

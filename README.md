@@ -4,8 +4,8 @@ Bu depo, siber güvenlik alanındaki temel bilgileri öğrenmeye ve derinlemesin
 Notlar, her bir güvenlik alanının temellerini anlamak ve uygulamalı bilgiyi geliştirmek için genişletilecek ve güncellenecektir.
 
 ### Konular:
-1. [Ağ Temelleri ve Güvenliği](#)
-2. [Kablosuz Temelleri ve Güvenliği](#)
-3. [Sistem Temelleri ve Güvenliği](#)
-4. [Web Temelleri ve Güvenliği](#)
-5. [Mobil Temelleri ve Güvenliği](#)
+1. [Ag_Temelleri&Guvenlik](#)
+2. [Kablosuz_Temelleri&Guvenlik](#)
+3. [Sistem_Temelleri&Guvenlik](#)
+4. [Web_Temelleri&Guvenligi](#)
+5. [Mobil_Temelleri&Guvenlik](#)

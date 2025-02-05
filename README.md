@@ -1,1 +1,1 @@
-# Siber-G-venlik-Temel_Notlar
+# Siber-Guvenlik-Temel_Notlar
